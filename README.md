@@ -141,11 +141,15 @@ plotly
 ---
 
 # 📸 Screenshots
+images/homescreen.png
+images/sidebar.png
+images/image.png
+
 
 
 
 ## 📊 Prediction Dashboard
-
+images/fpred.png
 
 ---
 
